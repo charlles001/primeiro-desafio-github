@@ -1,7 +1,7 @@
 # primeiro-desafio-github
 primeiro desafio sobre github
 
-## cidigos uteis do git bash
+## COdigos uteis do git bash
 git init: inicializa um repositório local git
 git status: verifica o estado dos seus arquivos
 git add <nomeDoArquivo>: envia seu arquivo especificado para o Stage
